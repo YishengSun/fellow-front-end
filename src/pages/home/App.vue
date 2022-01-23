@@ -4,8 +4,8 @@
 
 <script>
 export default {
-  name: 'fellowMain',
-}
+  name: "home",
+};
 </script>
 
 <style lang="less">
